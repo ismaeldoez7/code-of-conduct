@@ -1,5 +1,10 @@
 # Django Code of Conduct Documentation Change Log
 
+## 2026-07-09: Add Django Commons to the affiliated programs
+
+- ✨ Add Django Commons to the affiliated programs [closes #99]
+
+
 ## 2026-05-28: Add Djangonaut Space as an affiliated program
 
 - Add Djangonaut Space as an affiliated program
