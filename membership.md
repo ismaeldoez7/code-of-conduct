@@ -20,12 +20,10 @@ number is still too low, a call for volunteers is published on Django blog.
 <!-- Keep the membership in sync between the GitHub team, https://github.com/django/code-of-conduct/blob/main/membership.md, https://github.com/django/dsf-working-groups/blob/main/active/code-of-conduct.md, https://www.djangoproject.com/foundation/committees/ -->
 
 - Dan Ryan, Chair
-- Elena Williams, Vice-Chair
+- Natalia Bidart, Vice-chair and liaison for Online Communities working group
 - Ariane Djeupang
 - Jeff Triplett, DSF Board President and board liaison
 - Priya Pahwa
-- Thibaud Colas
-- Natalia Bidart, liaison for Online Communities working group
 
 ## Member terms
 
@@ -49,6 +47,8 @@ or Slack messages, or contributing to the working group's documentation or proce
 
 ## Past members of the working group
 
+- Elena Williams
+- Thibaud Colas
 - Jay Miller
 - Brian Moloney
 - Michael Clark
