@@ -358,7 +358,7 @@ However, the working group is not required to act on this feedback. The final de
 
 ### Suspensions
 
-When a temporary suspension is enacted, the person leading the report must set a Slack reminder for the working group to remove any blocks and bans on the date the suspension ends. This ensures suspended individuals are restored to good standing in a timely manner without requiring manual tracking.
+When a temporary suspension is enacted, the person leading the report must [set a Slack reminder](https://slack.com/help/articles/208423427-Set-a-reminder) for the working group to remove any blocks and bans on the date the suspension ends. This ensures suspended individuals are restored to good standing in a timely manner without requiring manual tracking.
 
 ### Reporting to the Board
 
